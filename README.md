@@ -25,8 +25,8 @@ Cancer pathology reports are often complex and difficult to understand, especial
 4. The summary is sent to the user's email via Make.com.
 
 ## Screenshots
-![Screenshot 1](Screenshots/screenshot1.png)
-![Screenshot 2](Screenshots/screenshot2.png)
+![Screenshot 1](Screenshots/Screenshot1.png)
+![Screenshot 2](Screenshots/Screenshot2.png)
 
 ## How to Replicate
 1. Set up a Tally Form for report uploads.
