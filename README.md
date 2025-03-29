@@ -40,4 +40,4 @@ Cancer pathology reports are often complex and difficult to understand, especial
 - Expand to other medical domains.
 
 ## Contact
-For questions or feedback, contact [kogantisai67@gmail.com].
+For questions or feedback, contact kogantisai67@gmail.com
