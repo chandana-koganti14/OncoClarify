@@ -26,7 +26,10 @@ Cancer pathology reports are often complex and difficult to understand, especial
 
 ## Screenshots
 ![Screenshot 1](Screenshots/Screenshot1.png)
+
 ![Screenshot 2](Screenshots/Screenshot2.png)
+
+![Screenshot 3](Screenshots/Screenshot4.png)
 
 ## How to Replicate
 1. Set up a Tally Form for report uploads.
